@@ -264,6 +264,8 @@ sudo iptables -D INPUT -s <Windows_IP> -j DROP
 
 Connectivity is restored.
 
+![](images/iptables.png)
+![](images/iptables2.png)
 ---
 
 # 6. Data Classification Types + Scenario
